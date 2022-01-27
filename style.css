@@ -37,3 +37,18 @@ button {
     justify-content: center;
     margin: auto;
 }
+
+ul {
+    text-decoration: none;
+    margin-left: 10px;
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 0.625rem;
+}
+
+a {
+    color: rgb(7, 153, 7);
+}
